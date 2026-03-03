@@ -1,0 +1,19 @@
+Install Wikipedia:
+
+Windows:
+Try
+py -m pip install wikipedia
+Or 
+python -m pip install wikipedia
+
+Mac:
+python3 -m pip install wikipedia
+
+
+Install MySQL.connector:
+
+Windows:
+py -m pip install mysql-connector-python
+
+Mac:
+python3 -m pip install mysql-connector-python
